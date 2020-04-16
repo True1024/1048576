@@ -868,10 +868,19 @@ hr {
   .tile.tile-2305843009213694000 .tile-inner {
     color: #f9f6f2;
     background: #115292;
-    box-shadow: 0 0 30px 10px rgb(17, 100, 96), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    box-shadow: 0 0 30px 10px rgb(17, 82, 146), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 4.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2305843009213694000 .tile-inner {
+        font-size: 2.125px; } }
+
+  .tile.tile-4611686018427388000 .tile-inner {
+    color: #f9f6f2;
+    background: #230584;
+    box-shadow: 0 0 30px 10px rgb(17, 5, 96), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 4.25px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-4611686018427388000 .tile-inner {
         font-size: 2.125px; } }
 
   .tile.tile-super .tile-inner {
